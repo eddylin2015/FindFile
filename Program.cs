@@ -53,6 +53,7 @@ namespace findfile
                 if (path.Contains(s))
                 {
                     Console.WriteLine("Processed file '{0}'.", path);
+                    break;
                 }    
             }
         }
