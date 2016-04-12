@@ -1,0 +1,5 @@
+i:\code\findfile\findfile\bin\Debug\findfile.exe
+i:\code\findfile\findfile\bin\Debug\findfile.pdb
+i:\code\findfile\findfile\obj\x86\Debug\ResolveAssemblyReference.cache
+i:\code\findfile\findfile\obj\x86\Debug\findfile.exe
+i:\code\findfile\findfile\obj\x86\Debug\findfile.pdb
