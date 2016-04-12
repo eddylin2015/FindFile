@@ -38,15 +38,15 @@ namespace findfile
         }
         public static void ProcessFile(string path)
         {
-            String[] f ={"1516_P1AR_30",
-"1516_1_P1CR_12",
-"1516_1_P1CR_30",
-"1516_1_P3AR_34",
-"1516_1_P4AR_24",
-"1516_1_SC1B_17",
-"1516_1_SC1C_27",
-"1516_1_SC2A_27",
-"1516_1_SG1C_09"};
+            String[] f ={"1516_P1AR30",
+"1516_1_P1CR12",
+"1516_1_P1CR30",
+"1516_1_P3AR34",
+"1516_1_P4AR24",
+"1516_1_SC1B17",
+"1516_1_SC1C27",
+"1516_1_SC2A27",
+"1516_1_SG1C09"};
             foreach (string s in f)
             {
                 if (path.Contains(s))
