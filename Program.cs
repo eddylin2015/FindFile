@@ -38,7 +38,8 @@ namespace findfile
         }
         public static void ProcessFile(string path)
         {
-            String[] f ={"1516_P1AR30",
+            String[] f ={
+"1516_1_P1AR30",
 "1516_1_P1CR12",
 "1516_1_P1CR30",
 "1516_1_P3AR34",
